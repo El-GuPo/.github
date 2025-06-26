@@ -28,14 +28,14 @@ The application serves as a social platform that connects people who share simil
 
 ### Screenshots 
 <p float="left">
-    <img src="assets/screen1.jpg" width="200" alt=""/> 
-    <img src="assets/screen2.jpg" width="200" alt=""/>
-    <img src="assets/screen3.jpg" width="200" alt=""/>
+    <img src="assets/screen1.png" width="200" alt=""/> 
+    <img src="assets/screen2.png" width="200" alt=""/>
+    <img src="assets/screen3.png" width="200" alt=""/>
 </p>
 <p float="left">
-<img src="assets/screen4.jpg" width="200" alt="">
-<img src="assets/screen5.jpg" width="200" alt="">
-<img src="assets/screen6.jpg" width="200" alt="">
+<img src="assets/screen4.png" width="200" alt="">
+<img src="assets/screen5.png" width="200" alt="">
+<img src="assets/screen6.png" width="200" alt="">
 </p>
 
 ### Authors
